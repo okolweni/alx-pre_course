@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "school" >> bash/school
+
+
+
+
+
+
+
+echo echo school
+echo "The school is open!"
